@@ -7,7 +7,7 @@
                     <div class="sp-slides">
                         <div class="slide-item sp-slide">
                             <div class="slide-image">
-                                <img src="assets/img/sections/banner/slider1.jpg"  alt="" />
+                                <img src="{{ asset('img/sections/banner/slider1.jpg') }}"  alt="" />
                             </div>
                            <div class="slide-content">
                                 <p class="top-title sp-layer"  ></p>
@@ -24,7 +24,7 @@
 
                         <div class="slide-item sp-slide">
                             <div class="slide-image">
-                                <img src="assets/img/sections/banner/Banner_01.jpg"  alt="" />
+                                <img src="{{ asset('img/sections/banner/Banner_01.jpg') }}"  alt="" />
                             </div>
                             <div class="slide-content">
                                 <p class="top-title sp-layer"  ></p>
@@ -143,12 +143,12 @@
         <section class="laptops-section ">
             <div class="container">
                 <div class="laptops text-center wow fadeInUp" data-wow-duration="1s">
-                    <img src="assets/img/laptop-mockup.png" alt="" class="img-responsive" />
+                    <img src="{{ asset('img/laptop-mockup.png') }}" alt="" class="img-responsive" />
                 </div>
             </div>
             <div class="container">
                 <div class="content-logo text-center wow fadeInUp"  data-wow-duration="1s">
-                    <img src="assets/img/content-logo-blue-re.png" alt="" class="img-responsive" />
+                    <img src="{{ asset('img/content-logo-blue-re.png') }}" alt="" class="img-responsive" />
                 </div>
             </div>
         </section>
@@ -171,7 +171,7 @@
                         <p>Megatask Technologies is a leading web design agency with best all-inclusive custom website design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals. we are the experts at designing custom, 100% responsive WordPress, WooCommerce, and Shopify websites that are built to produce real business results for companies, instead of acting as online business cards</p>
                     </div>
                     <div class="col-md-5 col-sm-5 text-center">
-                        <img src="assets/img/areas.png" alt="" class="img-responsive" />
+                        <img src="{{ asset('img/areas.png') }}" alt="" class="img-responsive" />
                     </div>
                 </div>
             </div>
@@ -247,92 +247,92 @@
             <div class="scroll-pane ">
                 <div class="scroll-content">
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img4.jpg" class="fancybox">
-                            <img src="assets/img/img4.jpg" alt="" />
+                        <a href="{{ asset('img/img4.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img4.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img1.jpg" class="fancybox">
-                            <img src="assets/img/img1.jpg" alt="" />
+                        <a href="{{ asset('img/img1.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img1.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img2.jpg" class="fancybox">
-                            <img src="assets/img/img2.jpg" alt="" />
+                        <a href="{{ asset('img/img2.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img2.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img4.jpg" class="fancybox">
-                            <img src="assets/img/img4.jpg" alt="" />
+                        <a href="{{ asset('img/img4.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img4.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img1.jpg" class="fancybox">
-                            <img src="assets/img/img1.jpg" alt="" />
+                        <a href="{{ asset('img/img1.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img1.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img2.jpg" class="fancybox">
-                            <img src="assets/img/img2.jpg" alt="" />
+                        <a href="{{ asset('img/img2.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img2.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img4.jpg" class="fancybox">
-                            <img src="assets/img/img4.jpg" alt="" />
+                        <a href="{{ asset('img/img4.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img4.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img1.jpg" class="fancybox">
-                            <img src="assets/img/img1.jpg" alt="" />
+                        <a href="{{ asset('img/img1.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img1.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img2.jpg" class="fancybox">
-                            <img src="assets/img/img2.jpg" alt="" />
+                        <a href="{{ asset('img/img2.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img2.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
                     <div class="scroll-content-item  ">
-                        <a href="assets/img/img3.jpg" class="fancybox">
-                            <img src="assets/img/img3.jpg" alt="" />
+                        <a href="{{ asset('img/img3.jpg') }}" class="fancybox">
+                            <img src="{{ asset('img/img3.jpg') }}" alt="" />
                         </a>
                         <div class="name">dahls 160</div> 
                     </div>
@@ -407,7 +407,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img src="assets/img/browsers-image-blue.png" alt=" " class="img-responsive" />
+                        <img src="{{ asset('img/browsers-image-blue.png') }}" alt=" " class="img-responsive" />
                     </div>
                 </div>
             </div>
@@ -574,7 +574,7 @@
                     <div class="slide-item">
                         <div class="media-left">
                             <div class="image-block">
-                                <img src="assets/img/review-img1.jpg" alt="" />
+                                <img src="{{ asset('img/review-img1.jpg') }}" alt="" />
                             </div>
                         </div>
                         <div class="media-body">
@@ -595,7 +595,7 @@
                     <div class="slide-item">
                         <div class="media-left">
                             <div class="image-block">
-                                <img src="assets/img/review-img1.jpg" alt="" />
+                                <img src="{{ asset('img/review-img1.jpg') }}" alt="" />
                             </div>
                         </div>
                         <div class="media-body">
@@ -667,7 +667,7 @@
                             
                             <div class="image">
                                 <a href="#">
-                                    <img src="assets/img/news/image1.jpg" alt="" />
+                                    <img src="{{ asset('img/news/image1.jpg') }}" alt="" />
                                     <div class="image-content">
                                         <span class="read-more">read more</span>  
                                     </div>
@@ -675,7 +675,7 @@
                             </div> 
                             <div class="user-avatar clearfix">
                                 <div class="avatar">
-                                    <img src="assets/img/avatars/img1.png" alt="" /> 
+                                    <img src="{{ asset('img/avatars/img1.png') }}" alt="" /> 
                                 </div>
                             </div>
                             <div class="news-body">
@@ -693,7 +693,7 @@
                             
                             <div class="image">
                                 <a href="#">
-                                    <img src="assets/img/news/image2.jpg" alt="" />
+                                    <img src="{{ asset('img/news/image2.jpg') }}" alt="" />
                                     <div class="image-content">
                                         <span class="read-more">read more</span>  
                                     </div>
@@ -701,7 +701,7 @@
                             </div> 
                             <div class="user-avatar clearfix">
                                 <div class="avatar">
-                                    <img src="assets/img/avatars/img2.png" alt="" /> 
+                                    <img src="{{ asset('img/avatars/img2.png') }}" alt="" /> 
                                 </div>
                             </div>
                             <div class="news-body">
@@ -719,7 +719,7 @@
                             
                             <div class="image">
                                 <a href="#">
-                                    <img src="assets/img/news/image3.jpg" alt="" />
+                                    <img src="{{ asset('img/news/image3.jpg') }}" alt="" />
                                     <div class="image-content">
                                         <span class="read-more">read more</span>  
                                     </div>
@@ -727,7 +727,7 @@
                             </div> 
                             <div class="user-avatar clearfix">
                                 <div class="avatar">
-                                    <img src="assets/img/avatars/img1.png" alt="" /> 
+                                    <img src="{{ asset('img/avatars/img1.png') }}" alt="" /> 
                                 </div>
                             </div>
                             <div class="news-body">
@@ -776,16 +776,16 @@
             <div class="container">
                 <div class="list-clients">
                     <div class="client-item wow fadeInLeft">
-                        <img src="assets/img/partners/partner-4.png" alt="" />
+                        <img src="{{ asset('img/partners/partner-4.png') }}" alt="" />
                     </div>
                     <div class="client-item wow fadeInLeft">
-                        <img src="assets/img/partners/partner-1.png" alt="" />
+                        <img src="{{ asset('img/partners/partner-1.png') }}" alt="" />
                     </div>
                     <div class="client-item wow fadeInRight">
-                        <img src="assets/img/partners/partner-3.png" alt="" />
+                        <img src="{{ asset('img/partners/partner-3.png') }}" alt="" />
                     </div> 
                     <div class="client-item wow fadeInRight">
-                        <img src="assets/img/partners/partner-2.png" alt="" />
+                        <img src="{{ asset('img/partners/partner-2.png') }}" alt="" />
                     </div>
                 </div>
             </div>

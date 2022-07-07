@@ -100,21 +100,21 @@
 
         <!-- components -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="assets/vendor/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/owl-carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/waypoints/lib/jquery.waypoints.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/slider-pro/dist/js/jquery.sliderPro.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/slick-carousel/slick/slick.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/wow/dist/wow.min.js" type="text/javascript"></script>
-        <script src="assets/vendor/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script>
-        <script src="assets/js/modernizr.js" type="text/javascript"></script>
+        <script src="{{ asset('vendor/jquery-ui/jquery-ui.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/bootstrap/dist/js/bootstrap.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/owl-carousel/owl-carousel/owl.carousel.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/waypoints/lib/jquery.waypoints.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/slider-pro/dist/js/jquery.sliderPro.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/slick-carousel/slick/slick.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/wow/dist/wow.min.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('vendor/fancybox/source/jquery.fancybox.pack.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('js/modernizr.js') }}" type="text/javascript"></script>
 
         <!-- custom scripts -->
-        <script src="assets/js/contact.js" type="text/javascript"></script>
-        <script src="assets/js/custom.js" type="text/javascript"></script>
-        <script src="assets/js/map.js" type="text/javascript"></script>
+        <script src="{{ asset('js/contact.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('js/custom.js') }}" type="text/javascript"></script>
+        <script src="{{ asset('js/map.js') }}" type="text/javascript"></script>
 
     </body>
 </html>
