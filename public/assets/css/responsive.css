@@ -1,0 +1,15 @@
+@media (max-width: 767px){
+
+	.homepage-slider{
+		display: none;
+	}
+	.header .navbar {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+}
+
+
+@media (min-width: 767px){
+section.top-header.home-header.with-bottom-effect.transparent-effect.dark{display: none;}
+}
