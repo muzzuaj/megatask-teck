@@ -1,5 +1,4 @@
-@include('header');
-
+@include('header')
 <section class="top-header home-header with-bottom-effect transparent-effect dark">
             <div class="bottom-effect"></div>
             <div class="header-container">	
@@ -796,4 +795,4 @@
         <!-- ========================== -->
         
 
-       @include('footer');
+       @include('footer')

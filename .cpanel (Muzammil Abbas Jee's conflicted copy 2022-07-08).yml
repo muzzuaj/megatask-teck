@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/a23print/megatechcrm.com/
+    - /bin/cp * $DEPLOYPATH

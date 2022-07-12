@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/a23print/megatechcrm.com/
+    - export DEPLOYPATH=/home/prinsptt/public_html/
     - /bin/cp * $DEPLOYPATH
